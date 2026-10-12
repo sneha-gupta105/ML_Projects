@@ -1,5 +1,5 @@
 **GPT-2 Fine-Tuning on Custom Text Dataset**
-
+---
 This project demonstrates how to fine-tune the GPT-2 language model on a custom plain text dataset using Hugging Face's `transformers` and `datasets` libraries. The resulting model can be used for text generation based on your specific domain or writing style.
 ---
 
