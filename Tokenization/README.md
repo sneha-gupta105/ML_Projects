@@ -1,4 +1,3 @@
-Link to Jupyter Source File: https://colab.research.google.com/drive/1CP9iJewC8YjSOo05TWfR4JdSRLfeWLpT?usp=sharing
 
 
 # 📚 Custom Tokenizer & Text Encoding for LLMs
