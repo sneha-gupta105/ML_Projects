@@ -1,6 +1,3 @@
-Link to Jupyter Source File:
-https://colab.research.google.com/drive/11Cdi0fjB30uHdYSIo_07hVdAZlIcmAR2?usp=sharing
-
 
 # Credit Card Fraud Detection
 
